@@ -1,5 +1,7 @@
 /* mifare ultralight writer (El conspirador (o conspiradora))
  *
+ *   This sketch allows to assign correlative numbers to a series of NFC tags. It could be used to write quickly a RFID card deck.
+ *
  *   RFID-RC522 (SPI connexion)
  *   
  *   CARD RC522      Arduino (UNO)
